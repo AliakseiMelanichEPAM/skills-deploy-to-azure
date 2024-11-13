@@ -6,7 +6,7 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: AliakseiMelanichEPAM-azure-ttt
+  DOCKER_IMAGE_NAME: AliakseiMelanichEPAM1-azure-ttt
   AZURE_WEBAPP_NAME: AliakseiMelanichEPAM-ttt-app
 
 jobs:
